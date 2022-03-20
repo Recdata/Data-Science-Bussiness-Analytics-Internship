@@ -22,7 +22,7 @@ This will be implementing with the help of K-Means Clustering algorithm.
 
 Dataset for this model can be found at : https://bit.ly/3kXTdox.</br>
 Code for this model can be found at : <a href = "https://github.com/Recdata/Data-Science-Bussiness-Analytics-Internship/blob/main/task%202/Task_2_TSF_Un-Supervised%20Learning-Prediction.ipynb">Task_2_Code</a>.</br>
-Video for this model can be found at : <a href = "https://www.youtube.com/watch?v=Hf1KU4G79fw&ab_channel=AmanNadeem">Task_2_Video</a>.</br>
+Video for this model can be found at : <a href = "https://www.youtube.com/watch?v=LI6xs9gg7rw&ab_channel=AmanNadeem">Task_2_Video</a>.</br>
 
 ### What are we supposed to do with the given dataset?
 We need to predict the optimum number of clusters and it's visualization.
